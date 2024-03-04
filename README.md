@@ -1,4 +1,9 @@
 # Springboot data validation, data binding and confirmation demonstration
+**quick look**:
+
+
+![Alt Text](./springbootvalidation.gif)
+![Screen Shot 2024-03-03 at 9 24 51 PM](https://github.com/bishwaproject/springboot-validation-databinding-confirmation-demonstration/assets/122746091/87dc9a45-36d1-4cc1-bbf5-bfc41e7e4248)
 
 This project demonstrates Spring boot's data validation, data binding and confirmation exposing user registration API built with Spring Boot, showcasing Spring Boot validation, data binding, email confirmation, and audit logging.
 
